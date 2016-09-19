@@ -43,19 +43,17 @@ def braille(text):
 
 
 # Part 1: Convert the following text to morse code:
-print morse_code("many physicists would agree that")
+print morse_code("purple haze")
 
 # Part 2: Convert the following text to braille:
-print braille("had it not been for")
+print braille("rocket man")
 
 # Part 3: Add support for numbers to your braille converter:
-print braille("8969 lines of smalltalk")
+print braille("8675309")
 
 # Part 4: Add support for common words and digraphs to you braille converter:
-print braille("the evaluation of web browsers")
+print braille("twist and shout")
 
 # Part 5: Add support for upper-casing to your braille converter:
-print braille("might NEVER have occurred")
+print braille("Hey Jude")
 
-# Adapted text from "Rooter: A Methodology for the Typical Unification
-# of Access Points and Redundancy", Stribling et al, WMSCI (2005).
